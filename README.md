@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java and full stack web developer...
 - 💞️ I’m looking to collaborate on frontend, React js, nodejs, php , Bootstrap, API.
 - Ask me about Frontend ,Backend and tech related.
-- 📫 How to reach me ..gmail-aditykumari24835@gmail.com, linkedin-@Adityakumari
+- 📫 How to reach me Gmail-aditykumari24835@gmail.com, Linkedin-linkedin.com/in/aditya-kumari-47b1b623a
 
 
 <!---
